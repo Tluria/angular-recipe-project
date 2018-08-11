@@ -13,7 +13,7 @@ export class RecipeService {
     new Recipe(
       'Steak with vegetables', 
       'Recipe cooking beef meat restaurant dinner grill', 
-      'https://cdn.pixabay.com/photo/2017/07/16/10/43/recipe-2508859_960_720.jpg',
+      'https://images.pexels.com/photos/263179/pexels-photo-263179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
        [
          new Ingredient('Steak', 1),
          new Ingredient('Tomatoes', 4)
@@ -21,7 +21,7 @@ export class RecipeService {
     new Recipe(
       'Special rice', 
       'Gastronomy food dishes eat recipe lunch', 
-      'https://cdn.pixabay.com/photo/2017/09/17/23/21/gastronomy-2760200_960_720.jpg',
+      'https://images.pexels.com/photos/1311771/pexels-photo-1311771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
        [
           new Ingredient('Rice', 1),
           new Ingredient('Bean', 20)
