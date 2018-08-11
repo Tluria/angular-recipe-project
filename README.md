@@ -1,6 +1,6 @@
 # AngularRecipeProject
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+Udemy online course project which was built in Angular 6.
+A recipe-book system that can be used to manage different recipes- add ,update ,delete recipes and adding ingredients to a dummy shopping cart.
 
 ## Development server
 
